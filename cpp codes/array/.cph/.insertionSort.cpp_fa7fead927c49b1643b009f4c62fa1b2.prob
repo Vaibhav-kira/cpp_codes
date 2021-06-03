@@ -1,0 +1,1 @@
+{"name":"Local: insertionSort","url":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\cpp codes\\array\\insertionSort.cpp","tests":[{"id":1622720312137,"input":"5 1 3 5 1 2","output":"11235"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\cpp codes\\array\\insertionSort.cpp","group":"local","local":true}
