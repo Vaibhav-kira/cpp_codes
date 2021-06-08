@@ -1,0 +1,1 @@
+{"name":"Local: rotatebyone","url":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\450\\array\\cyclic rotate\\rotatebyone.cpp","tests":[{"id":1623158217094,"input":"5\n1 2 3 4 5","output":"5 1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\450\\array\\cyclic rotate\\rotatebyone.cpp","group":"local","local":true}

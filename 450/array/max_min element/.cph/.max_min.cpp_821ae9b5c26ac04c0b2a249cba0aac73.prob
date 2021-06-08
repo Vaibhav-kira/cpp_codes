@@ -1,0 +1,1 @@
+{"name":"Local: max_min","url":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\450\\array\\max_min element\\max_min.cpp","tests":[{"id":1623154500092,"input":"5\n1 3 -98 1254 2222","output":"2222 -98"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\450\\array\\max_min element\\max_min.cpp","group":"local","local":true}
