@@ -1,0 +1,1 @@
+{"name":"Local: kadanesalgo","url":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\450\\array\\kadanes imp\\kadanesalgo.cpp","tests":[{"id":1623244095327,"input":"5\n1 -5 8 -1 9","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vaibh\\OneDrive\\Desktop\\cpp\\450\\array\\kadanes imp\\kadanesalgo.cpp","group":"local","local":true}

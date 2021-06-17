@@ -6,12 +6,12 @@ int main()
 {
     int n,n2;
     cin>>n>>n2;
-    int arr[n];
+    int arr[n]; 
     for(int i=0;i<n;i++)
     {
         cin>>arr[i];
     }
-    int arr2[n2];
+    int arr2[n2]; 
     for(int i=0;i<n2;i++)
     {
         cin>>arr2[i];
@@ -54,6 +54,6 @@ int main()
     //{
       //  cout<<ans[i];
     //}
-    cout<<ans.size()<<" ";//<<" "<<ans2.size();
+    cout<<ans.size();
     cout<<ans2.size();
 }
